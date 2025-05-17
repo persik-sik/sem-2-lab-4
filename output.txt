@@ -1,0 +1,14 @@
+Original Container (vector)
+Deposit: Position1, Amount: 1000 USD, Rate: 5%
+Deposit: Position4, Amount: 5000 EUR, Rate: 3.5%
+Deposit: Position3, Amount: 200 RUB, Rate: 7%
+
+Sorted Container (vector)
+Deposit: Position1, Amount: 1000 USD, Rate: 5%
+Deposit: Position3, Amount: 200 RUB, Rate: 7%
+Deposit: Position4, Amount: 5000 EUR, Rate: 3.5%
+
+Copied Container (deque)
+Deposit: Position1, Amount: 1000 USD, Rate: 5%
+Deposit: Position3, Amount: 200 RUB, Rate: 7%
+Deposit: Position4, Amount: 5000 EUR, Rate: 3.5%
